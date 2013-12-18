@@ -1,0 +1,16 @@
+*.hex
+*.ihx
+*.asm
+*.bin
+*.mem
+*.rst
+*.sym
+*.omf
+*.lst
+*.cdb
+*.lk
+*.rel
+*.t
+src/source.c~
+*.map
+
